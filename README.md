@@ -4,3 +4,5 @@ Create a new repository
 Hello, 
 I am Jiaxu. This is my first change.
 Thanks!
+
+This is my second change.
